@@ -72,13 +72,7 @@ class Terkey:
     
     You can find all default keys in this program at
     {a}https://wiki.termux.com/wiki/Touch_Keyboard{c}
-    
-    Want to chat with me ?
-    {a}https://t.me/Prof_acc{c}
-    My Web Site
-    {a}https://www.Profesoracc.com{c}
-    And if you want to give me some money, you can visit
-    {a}https://trakteer.id/ProfesorAcc{c}
+ 
     
     """
     )
