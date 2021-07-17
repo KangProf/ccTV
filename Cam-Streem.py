@@ -59,7 +59,7 @@ try:
                  "-"]
     headers = {"User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:68.0) Gecko/20100101 Firefox/68.0"}
 
-    num = int(input("OPTIONS : "))
+    num = int(input("PILIH NOMER : "))
     if num not in range(1, 91+1):
         raise IndexError
 
