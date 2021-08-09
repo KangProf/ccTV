@@ -10,4 +10,4 @@ $ git clone https://github.com/KangProf/ccTV
 
 $ cd ccTV
 
-$ python Cam-Stream.py
+$ python Cam-Streem.py
